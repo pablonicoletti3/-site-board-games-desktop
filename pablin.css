@@ -1,0 +1,151 @@
+* {
+margin: 0%;
+box-sizing: border-box;
+
+}
+
+
+
+.textocabecalho {
+display: inline;
+
+;
+}
+
+#Logo {
+position: absolute;
+width: 122px;
+height: 42px;
+left: 122px;
+top: 11px;
+
+}
+
+#home {
+
+position: absolute;
+width: 47px;
+height: 18px;
+left: 390px;
+top: 28px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+color: #007191;
+list-style: none;
+padding-right: 70px;
+}
+
+#hobby {
+position: absolute;
+width: 66px;
+height: 18px;
+left: 501px;
+top: 28px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+color: #007191;
+list-style: none;
+}
+
+#Acervo {
+
+position: absolute;
+width: 53px;
+height: 18px;
+left: 631px;
+top: 28px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+list-style: none;
+color: #007191;
+}
+
+#Contato {
+
+position: absolute;
+width: 61px;
+height: 18px;
+left: 752px;
+top: 28px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+color: #007191;
+list-style: none;
+}
+
+nav {
+display: inline;
+align-items: center;
+font-family: 'Montserrat';
+}
+
+#botao-entrar {
+position: absolute;
+width: 30px;
+height: 40px;
+right: 50%px;
+top: 10px;
+color: #007191;
+border: 1px solid #0097C1;
+border-radius: 8px;
+
+}
+
+#botao-cadastrar {
+position: absolute;
+width:50px;
+height: 40px;
+top: 10px;
+right: 10px;
+background-color: #007191;
+color: rgb(255, 255, 255);
+border: 1px solid #0097C1;
+border-radius: 8px;
+}
+
+#foto-de-fundo {
+position: absolute;
+width: 1440px;
+height: 960px;
+left: 0px;
+top: 60px;
+
+background: rgba(0, 0, 0, 0.3);
+
+}
+
+#titulo-do-meio {
+position: absolute;
+width: 769px;
+height: 68px;
+left: 405px;
+top: 572px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 56px;
+line-height: 68px;
+color: #FFFFFF;
+}
+
+#botao-do-meio {
+position: absolute;
+width: 421px;
+height: 40px;
+left: 509px;
+top: 739px;
+background: #0086AB;
+border-radius: 8px;
+}
