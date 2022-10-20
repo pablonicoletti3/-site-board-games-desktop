@@ -53,22 +53,6 @@ color: #007191;
 list-style: none;
 }
 
-#Acervo {
-
-position: absolute;
-width: 53px;
-height: 18px;
-left: 631px;
-top: 28px;
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 500;
-font-size: 15px;
-line-height: 18px;
-list-style: none;
-color: #007191;
-}
-
 #Contato {
 
 position: absolute;
@@ -83,6 +67,21 @@ font-size: 15px;
 line-height: 18px;
 color: #007191;
 list-style: none;
+}
+#Acervo {
+
+position: absolute;
+width: 53px;
+height: 18px;
+left: 631px;
+top: 28px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+list-style: none;
+color: #007191;
 }
 
 nav {
@@ -140,15 +139,6 @@ line-height: 68px;
 color: #FFFFFF;
 }
 
-#botao-do-meio {
-position: absolute;
-width: 421px;
-height: 40px;
-left: 509px;
-top: 739px;
-background: #0086AB;
-border-radius: 8px;
-}
 #titulo-do-botao {
 width: 403px;
 height: 18px;
@@ -163,20 +153,14 @@ color: #FFFFFF;
 align-items: center;
 
 }
-
-#titulo2 {
+#botao-do-meio {
 position: absolute;
-width: 588px;
-height: 159px;
-left: 122px;
-top: 1150px;
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 400;
-font-size: 48px;
-line-height: 59px;
-color: #000000;
-
+width: 421px;
+height: 40px;
+left: 509px;
+top: 739px;
+background: #0086AB;
+border-radius: 8px;
 }
 
 #titulo-noticia {
@@ -192,7 +176,20 @@ font-size: 24px;
 line-height: 29px;
 color: #000000;
 }
+#titulo2 {
+position: absolute;
+width: 588px;
+height: 159px;
+left: 122px;
+top: 1150px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 59px;
+color: #000000;
 
+}
 #subtitulo {
 position: absolute;
 width: 466px;
@@ -337,5 +334,214 @@ line-height: 29px;
 color: #000000;
 
 }
+#subtitulo4 {
+position: absolute;
+width: 467px;
+height: 55px;
+left: 851px;
+top: 1614px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+color: #000000;
+
+}
+
+#leiamais4 {
+position: absolute;
+width: 130px;
+height: 40px;
+left: 851px;
+top: 1684px;
+background: #B8B8B8;
+border-radius: 8px;
+font-family: 'Montserrat';
+color: #000000;
+}
+
+#imagem-tabuleiro {
+position: absolute;
+width: 588px;
+height: 300px;
+left: 122px;
+top: 1875px;
+
+}
+
+#titulo-noticia5 {
+position: absolute;
+width: 203px;
+height: 29px;
+left: 730px;
+top: 1960px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
+
+}
+
+#subtitulo5 {
+position: absolute;
+width: 571px;
+height: 85px;
+left: 730px;
+top: 2005px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+color: #000000;
+}
+
+#azul {
+position: absolute;
+width: 1440px;
+height: 600px;
+left: 0px;
+top: 2325px;
+background: #131B48;
+}
+
+#tabuleiro2 {
+position: absolute;
+width: 588px;
+height: 300px;
+left: 730px;
+top: 2475px;
+}
+
+#titulo-noticia6 {
+position: absolute;
+width: 203px;
+height: 29px;
+left: 122px;
+top: 2560px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+}
+
+#titulo-noticia7 {
+position: absolute;
+width: 203px;
+height: 29px;
+left: 122px;
+top: 2560px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF
+}
+
+#subtitulo7 {
+position: absolute;
+width: 571px;
+height: 85px;
+left: 122px;
+top: 2605px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+color: #FFFFFF;
+
+}
+
+#linhapreta {
+position: absolute;
+width: 1196px;
+height: 0px;
+left: 122px;
+top: 3333px;
+border: 1px solid #000000;
+}
+#logo-rodape {
+    position: absolute;
+    width: 122px;
+    height: 42px;
+    left: 122px;
+    top: 3361px;
+}
+
+#home-r {
+    position: absolute;
+    width: 47px;
+    height: 18px;
+    left: 902px;
+    top: 3371px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+    list-style: none;
+    color: #007191;
+}
+
+#hobby-r {
+    position: absolute;
+    width: 66px;
+    height: 18px;
+    left: 1009px;
+    top: 3371px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+    list-style: none;
+    color: #007191;
+}
+
+#Acervo-r {
+    position: absolute;
+    width: 53px;
+    height: 18px;
+    left: 1144px;
+    top: 3370px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+    list-style: none;
+    color: #007191;
+}
+
+#Contato-r {
+    position: absolute;
+    width: 61px;
+    height: 18px;
+    left: 1257px;
+    top: 3366px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+    list-style: none;
+    color: #007191;
+}
+
 
 
